@@ -140,3 +140,23 @@ Mover seleção e mover seleção horizontalmente/verticalmente:
 Mover seleção (1 unidade) e mover seleção (10 unidades):
 <br>
 ![mover-seleção-1u-10u](imagens//imagens%20aula%2002/mover-sele%C3%A7%C3%A3o-1unidade-e-mover-sele%C3%A7%C3%A3o-10unidades.jpeg)
+
+## Exercicíos proposto:
+* Reproduzir o mesmo modelo do professor no figma
+ <br>
+ 
+### Modelo 1
+
+![exercicio01](https://github.com/Achiley/Study-Notes/blob/main/Origamid/UI%20iniciante/imagens/imagens%20aula%2002/Exercicio01-figma.JPG)
+<br>
+### Modelo 2
+![exercicio02](https://github.com/Achiley/Study-Notes/blob/main/Origamid/UI%20iniciante/imagens/imagens%20aula%2002/Exercicio02-figma.JPG)
+<br>
+### Modelo 3
+![exercicio03](https://github.com/Achiley/Study-Notes/blob/main/Origamid/UI%20iniciante/imagens/imagens%20aula%2002/Exercicio03-figma.JPG)
+<br>
+### Modelo 4
+![exercicio04](https://github.com/Achiley/Study-Notes/blob/main/Origamid/UI%20iniciante/imagens/imagens%20aula%2002/Exercicio04-figma.JPG)
+
+
+
