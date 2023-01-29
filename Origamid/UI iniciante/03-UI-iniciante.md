@@ -14,11 +14,11 @@ O principal uso do espaço é para definirmos uma relação lógica entre os nos
 ## Agrupar e separar
 Espaços menores agrupam elementos relacionados. O conceito de espaço maior/menor é relativo aos demais elementos da página.
 
-![espaco1](Imagens/imagens-aula-3/espaco1.png)
+![espaco1](https://github.com/Achiley/Study-Notes/blob/main/Origamid/UI%20iniciante/imagens/imagens-aula-3/espaco1.png)
 
 Espaços maiores separam componentes.
 
-![espaco2](Imagens/imagens-aula-3/espaco2.png)
+![espaco2](https://github.com/Achiley/Study-Notes/blob/main/Origamid/UI%20iniciante/imagens/imagens-aula-3/espaco2.png)
 
 Exemplo:
 
