@@ -197,3 +197,14 @@ Toda fonte possui a sua classificação, família e peso.
 
 ![Contraste](imagens/imagens-aula-3/contraste.jpg)
 Apesar da Roboto (corpo de texto) e Poppins (título, lista e botão) serem ambas sem serifas, a Poppins é uma geométrica e possui características diferentes o suficientes para criar contraste entre as mesmas.
+
+## Exercicíos 
+![ex1](https://user-images.githubusercontent.com/107277767/215617244-0974aa34-54ab-4dce-a46b-5b3ae2b5cd44.PNG)
+
+![ex2](https://user-images.githubusercontent.com/107277767/215617272-b31cf486-030e-40f2-943c-9e6298a8c277.PNG)
+
+![ex3](https://user-images.githubusercontent.com/107277767/215617290-92820acc-d87f-423f-82b7-cb8e56588d7e.PNG)
+
+![ex4](https://user-images.githubusercontent.com/107277767/215617327-ecf0c684-e452-46e7-9994-d93913b71db8.PNG)
+
+
