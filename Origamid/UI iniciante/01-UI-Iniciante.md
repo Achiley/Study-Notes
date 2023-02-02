@@ -1,6 +1,5 @@
 # O Curso 
 
-### 💡 Aula 01 
 
 ## UI Design para Iniciantes
 * User Interface (Interface de Usuário) Design, User Experience (Experiência do Usuário) Design, Figma, Cores, Tipografia, Espaço e mais.
@@ -8,7 +7,6 @@
 ## Ferramenta
 * Figma
 
-### 💡 Aula 02
 
 # Design é Projeto
 ## Plano
@@ -28,8 +26,6 @@ A execução do projeto é feita em etapas, cada etapa prioriza uma parte do pro
 
 ## Análise
 Podemos analisar/especular os motivos por trás de cada escolha.
-
-### 💡 Aula 03
 
 # UI Design
 ## UI = User Interface = Interface de Usuário
@@ -65,8 +61,6 @@ A ausência de um elemento apenas, pode arruinar o seu projeto.
 * O botão mais importante possui o maior contraste
 
 * As informações disponíveis possuem propósito
-
-### 💡 Aula 04
 
 # UX Design
 ## UX = User Experience = Experiência do Usuário
@@ -123,8 +117,6 @@ Exercício
 Assistir vídeo sobre UX Design:
 
 https://www.youtube.com/watch?v=ZXapXz6iPKs
-
-### 💡 Aula 05
 
 # Design e Desenho
 Você não precisa saber desenhar para trabalhar como designer. É uma habilidade que pode te ajudar, mas não é vital.
