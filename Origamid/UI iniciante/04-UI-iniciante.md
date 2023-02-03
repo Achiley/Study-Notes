@@ -95,7 +95,7 @@ https://en.rsvp-paris.com/
 
 # Elementos
 
-*Link
+* Link
 * Botão
 * Dropdown
 
@@ -206,13 +206,13 @@ https://mailchimp.com/pt-br/pricing/
 ## Posts
 Uma lista de postagens/notícias é presente em quase todas as redes sociais, blogs e sites de notícias. Elementos comuns são: autor, data, título, thumbnail, tags, breve descrição, likes (aprovações) e comentários.
 
-![Posts](imagens/imagens-aula-4/posts1.png
+![Posts](imagens/imagens-aula-4/posts1.png)
 
 https://css-tricks.com/
 
 As informações da lista são conforme as suas necessidades. No YouTube o tempo do vídeo, thumbnail e total assistido são essenciais.
 
-![Posts](imagens/imagens-aula-4/posts2.png)
+![Posts](https://github.com/Achiley/Study-Notes/blob/main/Origamid/UI%20iniciante/imagens/imagens-aula-4/posts2.jpg?raw=true)
 
 ## Conteúdo
 
@@ -288,7 +288,7 @@ https://medium.com/
 ### Min/Max
 * Precisamos definir o valor mínimo e máximo do slide.
 
-![slide](imagens/imagens-aula-4/slide.jpg
+![slide](imagens/imagens-aula-4/slide.jpg)
 
 ## date
 
